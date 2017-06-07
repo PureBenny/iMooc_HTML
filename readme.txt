@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Try Push.
 Try Pull.
+Try Pull Again.
